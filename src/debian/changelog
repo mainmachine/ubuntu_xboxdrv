@@ -1,3 +1,9 @@
+ubuntu-xboxdrv (20140502-1) trusty; urgency=low
+
+  * Adding proper support for gamepad attach/removal notification.
+
+ -- Rael Gugelmin Cunha <rael.gc@gmail.com>  Fri, 02 May 2014 12:34:56 -0300
+
 ubuntu-xboxdrv (20140428-1) trusty; urgency=low
 
   * Removing attempt to raise a global notification.
