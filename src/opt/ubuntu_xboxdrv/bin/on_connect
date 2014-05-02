@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ -z "$1" ]
+  then
+    echo "Invalid arguments"
+  else 
+    python /opt/ubuntu_xboxdrv/bin/dbus connected $1
+fi
