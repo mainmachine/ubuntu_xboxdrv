@@ -1,1 +1,1 @@
-PAD_OPTIONS= --mimic-xpad --mimic-xpad-wireless --trigger-as-button --detach-kernel-driver
+PAD_OPTIONS=" --mimic-xpad --mimic-xpad-wireless --trigger-as-button --detach-kernel-driver"
